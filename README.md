@@ -1,2 +1,2 @@
-# DSA-In-C-
-Datastructures and Algorithms implemented in C++
+# Datastructures and Algorithms Implemented in C++
+Insertion Sort
